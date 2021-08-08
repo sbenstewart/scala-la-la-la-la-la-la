@@ -4,9 +4,7 @@
 
 The Scala song in Scala.
 
-<video controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/24373162/128633637-0544f0ce-e0ff-4b4b-9020-c46f304b37e7.mp4
 
 ## Prerequisites
 
@@ -19,7 +17,7 @@ To use this website the following is what you'll have to do.
 $scala -cp jfugue-5.0.9.jar code.scala
 ```
 
-And. There is one more even easier way to access the audio. Just click on [this link.](audio.mp3)
+And. There is one more even easier way to access the [audio](audio.mp3).
 
 ## Why this ?
 
